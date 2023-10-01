@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32811.315
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Math Least Square Method", "Math Least Square Method.csproj", "{FFAF534F-CB82-49B3-8876-BF297E4F18C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FFAF534F-CB82-49B3-8876-BF297E4F18C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FFAF534F-CB82-49B3-8876-BF297E4F18C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FFAF534F-CB82-49B3-8876-BF297E4F18C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FFAF534F-CB82-49B3-8876-BF297E4F18C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3D2F54F4-0B6D-455B-BF87-3AEFA94C3873}
+	EndGlobalSection
+EndGlobal
