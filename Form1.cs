@@ -1,4 +1,6 @@
-﻿using System;
+﻿
+using Maths;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -14,6 +16,7 @@ namespace Math_Least_Square_Method
         public Form1()
         {
             InitializeComponent();
+ 
         }
     }
 }
