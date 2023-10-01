@@ -55,7 +55,9 @@
     <Compile Include="Form1.Designer.cs">
       <DependentUpon>Form1.cs</DependentUpon>
     </Compile>
+    <Compile Include="maths\DataModel\CircleDataModel.cs" />
     <Compile Include="maths\DataModel\PointsDataModel.cs" />
+    <Compile Include="maths\FitCircle2D.cs" />
     <Compile Include="maths\FitPlaneLeastSquares3D.cs" />
     <Compile Include="maths\LeasSquareVectorResult.cs" />
     <Compile Include="Program.cs" />
